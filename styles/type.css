@@ -1,0 +1,33 @@
+html {
+    font-size: 12px;
+}
+
+h1 {
+    font-family: 'JBMono', sans-serif;
+    font-weight: bold;
+    font-size: 5rem;
+    color: var(--darkgrey);
+}
+
+h3 {
+    font-family: 'PTMono', sans-serif;
+    font-weight: normal;
+    font-size: 1.5rem;
+    color: #fff;
+    letter-spacing: 3px;
+}
+
+h5 {
+    font-family: 'JBMono', sans-serif;
+    font-weight: bold;
+    font-size: 1rem;
+    color: var(--darkgrey);
+}
+
+p {
+    font-family: 'JBMono', sans-serif;
+    font-weight: normal;
+    font-size: 1rem;
+    color: var(--lightgrey);
+    letter-spacing: 1px;
+}
