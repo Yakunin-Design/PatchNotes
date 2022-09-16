@@ -5,4 +5,4 @@
 ## Props
 
 - version
-- date
+- date (in unix time)

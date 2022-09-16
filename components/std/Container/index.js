@@ -10,6 +10,7 @@ const Container = styled.div`
         css`
             min-height: 100vh;
             margin-top: 6rem;
+            margin-bottom: 30vh;
         `}
 `;
 
