@@ -7,23 +7,13 @@ export default function Menu(props) {
         <div className={styles.menu}>
             <Container>
                 <MenuItem
-                    version="1.4"
-                    date="Thu, 25 Aug 2022"
-                    toggleMenu={props.toggleMenu}
-                />
-                <MenuItem
-                    version="1.3"
-                    date="Thu, 25 Aug 2022"
-                    toggleMenu={props.toggleMenu}
-                />
-                <MenuItem
                     version="1.2"
-                    date="Thu, 25 Aug 2022"
+                    date="Tue, 01 Sep 2022"
                     toggleMenu={props.toggleMenu}
                 />
                 <MenuItem
                     version="1.1"
-                    date="Thu, 25 Aug 2022"
+                    date="Wed, 24 Aug 2022"
                     toggleMenu={props.toggleMenu}
                 />
             </Container>

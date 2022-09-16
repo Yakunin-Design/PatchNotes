@@ -7,8 +7,8 @@ export default function MenuItem({ date, version, toggleMenu }) {
         <a href={'#' + version} className={styles.menu_item} onClick={toggleMenu}>
             <Spacer top="3" bottom="3">
                 <Row>
-                    <h3>{date}</h3>
-                    <h3>{version}</h3>
+                    <h3>v{version}</h3>
+                    <p>{date}</p>
                 </Row>
             </Spacer>
             <hr />

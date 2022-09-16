@@ -14,6 +14,9 @@ export default function Note(props) {
             <h3>{title}</h3>
             <Spacer top="0" bottom="2" />
             {note_changes}
+            <Spacer top="2" bottom="4">
+                <hr />
+            </Spacer>
         </div>
     );
 }
